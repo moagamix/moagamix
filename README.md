@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moagamix   - 👀 I’m interested in Front-end  - 📫 How to reach me All Social: @moagamix  - 😄 Pronouns: Mohamed El-Agami
+- 👋 Hi, I’m Mohamed El-Agami   - 👀 I’m interested in Front-end  - 📫 How to reach me All Social: @moagamix
 
 <!---
 moagamix/moagamix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
